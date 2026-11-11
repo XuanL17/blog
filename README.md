@@ -30,4 +30,5 @@ For posts written with [AISmithLab](https://github.com/AISmithLab), the experime
 |---|---|---|
 | Draft | [What are we simulating when we simulate with an LLM?](posts/what-are-we-simulating/) | [AISmithLab/blog](https://github.com/AISmithLab/blog/tree/main/posts/what-are-we-simulating/experiments) |
 | 2026-03-10 | [Making Human Studies as Reproducible as Open-Source Code](posts/2026-03-reproducible-human-studies/) | [HumanStudy Hub](https://humanstudy-hub.com/) |
+| 2025-09-23 | [Calibrating Agents for Quantifiable, Reproducible Behavior](posts/2025-09-calibrating-agent-behavior/) | [CoBRA](https://cobra.clawder.ai/) |
 | 2025-09-16 | [Can Implicit Language Reliably Control Agent Behavior?](posts/2025-09-implicit-agent-behavior/) | [CoBRA](https://cobra.clawder.ai/) |
